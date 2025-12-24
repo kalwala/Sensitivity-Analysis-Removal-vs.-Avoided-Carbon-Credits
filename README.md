@@ -3,7 +3,7 @@
 👉 **Click below to open the interactive visualization**  
 *(Plotly-based, hover-enabled, fully interactive)*
 
-🔗 **[Open Interactive Sensitivity Analysis](https://kalwala.github.io/REPO_NAME/sensitivity_analysis.html)**
+🔗 **[Open Interactive Sensitivity Analysis](https://github.com/kalwala/Sensitivity-Analysis-Removal-vs.-Avoided-Carbon-Credits/blob/main/sensitivity_analysis.html)**
 
 ---
 
